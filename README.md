@@ -56,6 +56,21 @@ The dataset contains retail transactions including:
 | Repeated Order IDs | 4,985 | Valid transaction records; retained |
 | Invalid Sales Entries | 0 | No action required |
 
+## Dashboard Overview
+
+### Business Questions
+
+- How is the business performing overall?
+- Is the business growing over time?
+- Which region contributes the most revenue?
+- Which product categories drive revenue?
+
+![Executive Overview](dashboard/executive_overview.png)
+
+
+
+
+
 
 
 
