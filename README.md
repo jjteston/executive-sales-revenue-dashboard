@@ -1,5 +1,21 @@
 # 📊Executive Sales & Revenue Dashboard
-*End-to-end retail sales analytics project featuring data validation, KPI analysis, and executive reporting.*
+
+<details>
+<summary>
+  <b><i>Project Summary</i></b>
+</summary>
+  
+#### 💼My Work
+- Validated 9,994 retail transaction records using Google Sheets.
+- Assessed missing values, duplicate records, negative-profit transactions, and high-discount orders.
+- Used XLOOKUP, Pivot Tables, Conditional Formatting, and spreadsheet formulas for data preparation and analysis.
+- Defined business KPIs and translated business questions into measurable metrics.
+- Identified key insights on regional performance, seasonality, and discount-driven profit loss.
+- Built a two-page Looker Studio dashboard for executive reporting and profitability analysis.
+- Developed business recommendations based on analytical findings.
+  
+</details>
+
 
 ## 🎯Business Problem
 
@@ -16,9 +32,7 @@ Leadership needs a dashboard that answers:
 ## ⚙️Tools Used
 
 - Google Sheets
-- Microsoft Excel
 - Looker Studio
-- GitHub
 
 ## 📁Dataset
 
@@ -94,7 +108,13 @@ The dataset contains retail transactions including:
 - Regional Performance Analysis
 - Discount Impact Assessment
 
+## 📬 Contact
+If you have feedback, questions, or opportunities, feel free to connect with me:
 
+- 🔗 LinkedIn: https://www.linkedin.com/in/jj-teston-b41950374/
+- 📧 Email: johnjesterteston@gmail.com
+  
+⭐ I'm currently open to entry-level Data Analyst opportunities.
 
 
 
