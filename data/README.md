@@ -1,6 +1,6 @@
 # Workbook Documentation
 
-The workbook ____ contains all spreadsheet-based work completed for this project.
+The workbook `Superstore_Analysis.xlsx` contains all spreadsheet-based work completed for this project.
 
 ## Worksheets
 
@@ -34,6 +34,5 @@ Maps business questions to metrics and dashboard visualizations.
 
 ## Access
 
-* Excel Workbook: ____
-* Google Sheets Version: [Insert Google Sheets Link Here]
-
+* Excel Workbook: `Superstore_Analysis.xlsx`
+* Google Sheets Version: https://docs.google.com/spreadsheets/d/1MgLAwvORQbdWimmKFNm0Dhs6a_AadASsR1B3X-DMRw4/edit?usp=sharing
