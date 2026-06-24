@@ -1,7 +1,7 @@
 # 📊Executive Sales & Revenue Dashboard
 *End-to-end retail sales analytics project featuring data validation, KPI analysis, and executive reporting.*
 
-## Business Problem
+## 🎯Business Problem
 
 A retail company operates across multiple regions and product categories but lacks a centralized reporting system for monitoring sales performance and profitability.
 
@@ -19,14 +19,6 @@ Leadership needs a dashboard that answers:
 - Microsoft Excel
 - Looker Studio
 - GitHub
-
-## 🧠Skills Demonstrated
-
-- Data Validation
-- Conditional Formatting
-- Pivot Tables
-- KPI Calculations
-- XLOOKUP Data Enrichment
 
 ## 📁Dataset
 
@@ -56,16 +48,52 @@ The dataset contains retail transactions including:
 | Repeated Order IDs | 4,985 | Valid transaction records; retained |
 | Invalid Sales Entries | 0 | No action required |
 
-## Dashboard Overview
-
-### Business Questions
-
-- How is the business performing overall?
-- Is the business growing over time?
-- Which region contributes the most revenue?
-- Which product categories drive revenue?
-
+## 📈Dashboard Overview
 ![Executive Overview](dashboard/executive_overview.png)
+
+![Product & Profitability Analysis](dashboard/product_profitability_analysis.png)
+
+## 💡Key Insights
+- The business is performing strongly, generating $2.3M in revenue, $286K in profit, and maintaining a 12.5% profit margin, with revenue growth observed over time.
+- The West and East regions are the primary revenue drivers, while the South contributes the least.
+- Technology is the top revenue-generating category, and Copiers, Phones, and Accessories are the most profitable sub-categories.
+- Higher discount levels negatively impact profitability, with medium and high discounts resulting in losses.
+- Several products require management attention, particularly the Cubify CubeX 3D Printer Triple Head Print and Lexmark MX611dhe Monochrome Laser Printer, which generate significant losses, while Tables and Bookcases also underperform.
+
+
+## ✍🏻Recommendations
+
+1. Review discount policies for low-margin products.
+2. Investigate persistent losses in Tables and Bookcases.
+3. Expand successful strategies used in the West region.
+4. Increase inventory planning ahead of predictable demand spikes.
+
+
+## 🧠Skills Demonstrated
+
+#### Business Analysis
+- Requirement Gathering
+- KPI Definition
+- Executive Reporting
+- Data Storytelling
+
+#### Spreadsheet Analytics
+- Data Validation
+- Pivot Analysis
+- XLOOKUP Data Enrichment
+- Conditional Formatting
+
+#### Data Visualization
+- Dashboard Design
+- Executive Reporting
+- Looker Studio
+
+#### Analytical Thinking
+- Trend Analysis
+- Profitability Analysis
+- Regional Performance Analysis
+- Discount Impact Assessment
+
 
 
 
